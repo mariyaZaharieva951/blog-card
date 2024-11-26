@@ -15,7 +15,10 @@ module.exports = {
         greenDark: '#15803D',
         greenMedium: '#BBF7D0',
         greenLight: '#F0FDF4' 
-      }
+      },
+      fontFamily: {
+        sans: ['Noto Sans', 'sans-serif'], 
+      },
     },
   },
   plugins: [],
